@@ -1,0 +1,12 @@
+{
+  "total_trips": 1000,
+  "total_revenue": 35730.35,
+  "avg_fare": 30.428259999999998,
+  "avg_tip_percentage": 10.05986,
+  "avg_trip_duration": 61.133,
+  "avg_passengers": 3.485,
+  "peak_hour": 14,
+  "peak_hour_trips": 53,
+  "weekend_trips_percentage": 29.2,
+  "analysis_timestamp": "2025-11-17 03:39:59"
+}

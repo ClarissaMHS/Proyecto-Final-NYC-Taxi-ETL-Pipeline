@@ -1,2 +1,2 @@
 # Proyecto-Final-NYC-Taxi-ETL-Pipeline
-Pipeline ETL en PySpark para análisis de viajes NYC Taxi. Procesa millones de registros con limpieza, transformaciones y métricas agregadas. Incluye optimizaciones de particionamiento, caching y versión escalable para streaming en tiempo real.
+Un sistema de procesamiento de datos escalable construido con PySpark que implementa un pipeline ETL para analizar millones de viajes de taxis de Nueva York. Incluye limpieza de datos, feature engineering, métricas agregadas y capacidades de streaming para procesamiento en tiempo real
